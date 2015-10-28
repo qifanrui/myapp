@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\DevelopmentTool\ionic\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\AndroidStudioProjects\IcarePro\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-b87b06653a963f30fd29592dc6ea21c518d67df0.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\IcarePro\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="E:\AndroidStudioProjects\IcarePro\app\build\intermediates\pre-dexed\debug\classes-1f3ac968d7190070b6c4069959f86b76c831515f.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\IcarePro\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\AndroidStudioProjects\IcarePro\app\build\intermediates\pre-dexed\debug\classes-920afaf1c77e0017063eec0199d999f7bc569715.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\IcarePro\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="E:\AndroidStudioProjects\IcarePro\app\build\intermediates\pre-dexed\debug\volley-2ecf60916bd9d22a1e0765886d5d295baaae7ade.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\IcarePro\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\AndroidStudioProjects\IcarePro\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-ec91b3e9e30e17bf0426ef248457218ee7c062e1.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\IcarePro\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\AndroidStudioProjects\IcarePro\app\build\intermediates\pre-dexed\debug\classes-6d92d73a86cdaf43336c16c7026af142baaadac0.jar" />
+    </item>
+
+</items>

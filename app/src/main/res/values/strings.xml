@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Icare Pro</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Strings related to login -->
+    <string name="login">登录</string>
+    <string name="username">用户名</string>
+    <string name="possword">密码</string>
+    <string name="logging">正在登录...</string>
+    <string name="username_not_null">用户名不能为空！</string>
+    <string name="password_ont_null">密码不能为空！</string>
+</resources>
